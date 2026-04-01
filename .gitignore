@@ -1,1 +1,7 @@
-Setup Express backend with routes and controllers
+node_modules/
+.env
+.env.local
+data/
+.DS_Store
+dist/
+build/
